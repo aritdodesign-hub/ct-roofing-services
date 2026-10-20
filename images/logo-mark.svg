@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- CT Roofing Services: their own roofline mark (traced from the logo on ctroofservices.com, Wayback 2020), set on a
+       square tile in the logo blue so it fits the template's 44px logo box and reads on the dark footer too. -->
+  <rect width="64" height="64" rx="12" fill="#18488f"/>
+  <g transform="translate(6 25) scale(0.04635) translate(-30 -32)" fill="#fff">
+    <polygon points="30,308 383,32 797,32 1152,308 733,308 395,44 62,308"/>
+    <polygon points="258,154 491,154 690,308 456,308"/>
+  </g>
+</svg>
